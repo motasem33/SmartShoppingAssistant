@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Assistant | أفضل العروض</title>
+    <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="modern-ui">
+
+    <header class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <i class="fas fa-shopping-basket"></i>
+                <span>Smart Assistant</span>
+            </div>
+            <div class="search-box">
+                <i class="fas fa-search"></i>
+                <input type="text" id="topSearchInput" placeholder="ابحث عن منتجات..." oninput="document.getElementById('filterName').value = this.value; applyFilters();">
+            </div>
+            <div class="nav-actions">
+                <button class="icon-btn" id="bellBtn"><i class="far fa-bell"></i></button>
+                <button class="icon-btn" id="wishlistHeaderBtn" style="position: relative;">
+                    <i class="fas fa-heart"></i>
+                    <span class="cart-badge" id="wishlistBadge" style="background: #ef4444;">0</span>
+                </button>
+                <button class="icon-btn cart-btn" id="headerCartBtn">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-badge" id="cartBadge">0</span>
+                </button>
+                <div class="user-avatar" id="userAccountBtn" style="cursor: pointer;">
+                    <i class="fas fa-user"></i>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>أفضل عروض التقنية اليوم <span class="emoji">🔥</span></h1>
+            <p>نوفر لك أقل الأسعار من أشهر المتاجر</p>
+            <button class="cta-button" id="shopNowBtn">تسوق الآن</button>
+        </div>
+    </section>
+
+    <main class="products-container">
+
+        <div class="glass-panel" style="text-align: center; margin: -30px auto 30px; max-width: 600px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, rgba(239,68,68,0.2), rgba(249,115,22,0.2)); border: 1px solid rgba(239,68,68,0.4); position: relative; z-index: 5;">
+            <h3 style="color: #fca5a5; margin-bottom: 5px;"><i class="fas fa-bolt"></i> عروض نهاية الأسبوع تنتهي خلال</h3>
+            <div id="countdownTimer" style="font-size: 1.8rem; font-weight: bold; color: white; letter-spacing: 3px; font-family: monospace;">00:00:00</div>
+        </div>
+
+        <div class="section-header">
+            <h2>💡 توصيات ذكية لك</h2>
+        </div>
+        <div class="products-grid" id="recommendationsGrid" style="margin-bottom: 40px; padding-bottom: 30px; border-bottom: 1px dashed rgba(255,255,255,0.2);">
+        </div>
+
+        <div class="section-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px;">
+            <h2>جميع المنتجات</h2>
+            <div class="glass-panel" style="display: flex; gap: 10px; padding: 10px; border-radius: 10px; flex-wrap: wrap;">
+                <input type="text" id="filterName" class="filter-input" placeholder="اسم المنتج..." oninput="applyFilters()">
+
+                <select id="filterCategory" class="filter-input" onchange="applyFilters()">
+                    <option value="">كل الأقسام</option>
+                    <option value="عام">عام</option>
+                    <option value="إلكترونيات">إلكترونيات</option>
+                    <option value="ملابس">ملابس</option>
+                </select>
+
+                <input type="number" id="filterMinPrice" class="filter-input" placeholder="أقل سعر $" style="width: 100px;" oninput="applyFilters()">
+                <input type="number" id="filterMaxPrice" class="filter-input" placeholder="أعلى سعر $" style="width: 100px;" oninput="applyFilters()">
+
+                <select id="filterSort" class="filter-input" onchange="applyFilters()">
+                    <option value="newest">الأحدث (حسب التاريخ)</option>
+                    <option value="price_asc">السعر: من الأقل للأعلى</option>
+                    <option value="price_desc">السعر: من الأعلى للأقل</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="products-grid" id="customerProductsGrid">
+            <h3 style="color:white; text-align:center; width:100%;">جاري تحميل المنتجات...</h3>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

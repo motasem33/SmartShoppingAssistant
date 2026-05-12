@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>لوحة تحكم المشرف | Smart Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="admin-ui">
+    <div class="admin-bg-orbs"></div>
+
+    <div class="admin-layout">
+
+        <aside class="admin-sidebar glass-panel">
+            <div class="brand-title">
+                <i class="fas fa-shopping-basket"></i> Smart Admin
+            </div>
+            <nav class="sidebar-nav">
+                <a href="admin-dashboard.html" class="nav-item"><i class="fas fa-home"></i> لوحة التحكم</a>
+                <a href="admin-products.html" class="nav-item"><i class="fas fa-box-open"></i> المنتجات</a>
+                <a href="admin-users.html" class="nav-item"><i class="fas fa-users"></i> المستخدمين</a>
+                <a href="admin-orders.html" class="nav-item"><i class="fas fa-shopping-cart"></i> الطلبات</a>              
+                <a href="admin-settings.html" class="nav-item"><i class="fas fa-cog"></i> الإعدادات</a>
+            </nav>
+            <div class="sidebar-footer">
+                <button class="logout-btn" onclick="window.location.href='index.html'">
+                    <i class="fas fa-sign-out-alt"></i> تسجيل الخروج
+                </button>
+            </div>
+        </aside>
+
+        <main class="admin-main">
+            <header class="admin-header glass-panel">
+                <div class="header-content">
+                    <h2>مرحبًا بك 👋</h2>
+                    <p>إليك نظرة عامة على أداء متجرك اليوم</p>
+                </div>
+                <div class="header-actions">
+                    <div class="user-avatar">
+                        <i class="fas fa-user-shield"></i>
+                    </div>
+                </div>
+            </header>
+
+            <div class="admin-stats-grid">
+                <div class="stat-card glass-panel hover-3d">
+                    <div class="stat-info">
+                        <h3>إجمالي المبيعات</h3>
+                        <p>$24,500</p>
+                    </div>
+                    <div class="stat-icon">💰</div>
+                </div>
+
+                <div class="stat-card glass-panel hover-3d">
+                    <div class="stat-info">
+                        <h3>الطلبات</h3>
+                        <p>1,284</p>
+                    </div>
+                    <div class="stat-icon">🛒</div>
+                </div>
+
+                <div class="stat-card glass-panel hover-3d">
+                    <div class="stat-info">
+                        <h3>المستخدمين</h3>
+                        <p>8,392</p>
+                    </div>
+                    <div class="stat-icon">👤</div>
+                </div>
+            </div>
+
+            <div class="admin-chart-area glass-panel">
+                <h3>أحدث النشاطات</h3>
+                <p style="color: #64748b; margin-top: 15px;">سيتم عرض الرسوم البيانية والجداول هنا...</p>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

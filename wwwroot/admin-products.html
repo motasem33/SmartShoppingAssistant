@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>إدارة المنتجات | Smart Admin</title>
+    <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="admin-ui">
+    <div class="admin-bg-orbs"></div>
+
+    <div class="admin-layout">
+        <aside class="admin-sidebar glass-panel">
+            <div class="brand-title">
+                <i class="fas fa-shopping-basket"></i> Smart Admin
+            </div>
+            <nav class="sidebar-nav">
+                <a href="admin-dashboard.html" class="nav-item"><i class="fas fa-home"></i> لوحة التحكم</a>
+                <a href="admin-products.html" class="nav-item active"><i class="fas fa-box-open"></i> المنتجات</a>
+                <a href="admin-users.html" class="nav-item"><i class="fas fa-users"></i> المستخدمين</a>
+                <a href="admin-orders.html" class="nav-item"><i class="fas fa-shopping-cart"></i> الطلبات</a>              
+                <a href="admin-settings.html" class="nav-item"><i class="fas fa-cog"></i> الإعدادات</a>
+            </nav>
+            <div class="sidebar-footer">
+                <button class="logout-btn" onclick="window.location.href='index.html'">
+                    <i class="fas fa-sign-out-alt"></i> تسجيل الخروج
+                </button>
+            </div>
+        </aside>
+
+        <main class="admin-main">
+            <header class="admin-header glass-panel" style="display: flex; justify-content: space-between; padding: 20px 30px;">
+                <div class="header-content">
+                    <h2 style="color: white;">إدارة المنتجات 📦</h2>
+                </div>
+                <button class="btn-primary" style="width: auto; padding: 10px 25px; font-size: 0.95rem;" onclick="openModal()">
+                    <i class="fas fa-plus"></i> إضافة منتج
+                </button>
+            </header>
+
+            <div class="glass-panel" style="padding: 20px; overflow-x: auto;">
+                <table class="admin-table">
+                    <thead>
+                        <tr>
+                            <th>الرقم</th>
+                            <th>المنتج</th>
+                            <th>السعر</th>
+                            <th>الإجراءات</th>
+                        </tr>
+                    </thead>
+                    <tbody id="adminProductsTable">
+                        <tr>
+                            <td colspan="4" style="text-align: center; color: #94a3b8;">جاري تحميل المنتجات...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </main>
+    </div>
+
+    <div id="productModal" class="modal-overlay">
+        <div class="glass-card modal-content" style="max-width: 500px; padding: 30px;">
+            <h2 style="color: white; margin-bottom: 20px;">إضافة منتج جديد</h2>
+            <form id="addProductForm">
+                <div class="input-container">
+                    <i class="fas fa-box"></i>
+                    <input type="text" id="prodName" placeholder="اسم المنتج" required>
+                </div>
+                <div class="input-container">
+                    <i class="fas fa-dollar-sign"></i>
+                    <input type="number" id="prodPrice" placeholder="السعر" required>
+                </div>
+                <div class="input-container">
+                    <i class="fas fa-image"></i>
+                    <input type="text" id="prodImage" placeholder="رابط صورة المنتج (URL)" required>
+                </div>
+
+                <div style="display: flex; gap: 15px; margin-top: 25px;">
+                    <button type="submit" class="btn-primary">حفظ المنتج</button>
+                    <button type="button" class="btn-admin" onclick="closeModal()">إلغاء</button>
+                </div>
+                <div id="modalMsg" class="status-msg"></div>
+            </form>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

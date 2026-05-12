@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\auth.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\auth.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\admin-users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\admin-users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\admin-products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\admin-products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\admin-orders.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\admin-orders.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\admin-dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\admin-dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\admin-settings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\admin-settings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\smartshoppingassistant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:smartshoppingassistant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\wwwroot\\forgot-password.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:wwwroot\\forgot-password.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\dtos\\cartdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:dtos\\cartdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\migrations\\20260415130005_addshoppingcarts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:migrations\\20260415130005_addshoppingcarts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\migrations\\20260415123325_addidentitysupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:migrations\\20260415123325_addidentitysupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\migrations\\20260415121947_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:migrations\\20260415121947_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\migrations\\20260416085517_addorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:migrations\\20260416085517_addorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\migrations\\20260416084550_addimagetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:migrations\\20260416084550_addimagetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|c:\\users\\user\\desktop\\smartshoppingassistant\\smartshoppingassistant\\migrations\\20260416070546_addproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF24530-8945-3336-1AEC-DB1A129AA772}|SmartShoppingAssistant.csproj|solutionrelative:migrations\\20260416070546_addproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\app.js",
+              "RelativeToolTip": "wwwroot\\app.js",
+              "ViewState": "AgIAAAIDAAAAAAAAAAAowBkDAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-15T13:26:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "products.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\products.html",
+              "RelativeDocumentMoniker": "wwwroot\\products.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\products.html",
+              "RelativeToolTip": "wwwroot\\products.html",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T16:02:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T13:25:50.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\style.css",
+              "RelativeToolTip": "wwwroot\\style.css",
+              "ViewState": "AgIAABwEAAAAAAAAAAAUwDQEAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-15T18:59:38.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "admin-users.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-users.html",
+              "RelativeDocumentMoniker": "wwwroot\\admin-users.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-users.html",
+              "RelativeToolTip": "wwwroot\\admin-users.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-16T06:25:34.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:35:37.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:45:09.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "auth.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\auth.html",
+              "RelativeDocumentMoniker": "wwwroot\\auth.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\auth.html",
+              "RelativeToolTip": "wwwroot\\auth.html",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T19:25:42.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin-products.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-products.html",
+              "RelativeDocumentMoniker": "wwwroot\\admin-products.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-products.html",
+              "RelativeToolTip": "wwwroot\\admin-products.html",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-16T06:21:54.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin-orders.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-orders.html",
+              "RelativeDocumentMoniker": "wwwroot\\admin-orders.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-orders.html",
+              "RelativeToolTip": "wwwroot\\admin-orders.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-16T08:46:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admin-dashboard.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-dashboard.html",
+              "RelativeDocumentMoniker": "wwwroot\\admin-dashboard.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-dashboard.html",
+              "RelativeToolTip": "wwwroot\\admin-dashboard.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T13:53:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin-settings.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-settings.html",
+              "RelativeDocumentMoniker": "wwwroot\\admin-settings.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\admin-settings.html",
+              "RelativeToolTip": "wwwroot\\admin-settings.html",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAUwJ0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-16T09:02:22.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:59:05.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmartShoppingAssistant.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\SmartShoppingAssistant.csproj",
+              "RelativeDocumentMoniker": "SmartShoppingAssistant.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\SmartShoppingAssistant.csproj",
+              "RelativeToolTip": "SmartShoppingAssistant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T11:56:37.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260416085517_AddOrdersTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260416085517_AddOrdersTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260416085517_AddOrdersTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260416085517_AddOrdersTable.cs",
+              "RelativeToolTip": "Migrations\\20260416085517_AddOrdersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:55:17.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260416084550_AddImageToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260416084550_AddImageToProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260416084550_AddImageToProduct.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260416084550_AddImageToProduct.cs",
+              "RelativeToolTip": "Migrations\\20260416084550_AddImageToProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:45:50.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:44:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:56:18.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:02:38.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:55:19.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:57:13.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:20:31.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260416070546_AddProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260416070546_AddProductImage.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260416070546_AddProductImage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260416070546_AddProductImage.cs",
+              "RelativeToolTip": "Migrations\\20260416070546_AddProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:05:46.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\register.html",
+              "RelativeDocumentMoniker": "wwwroot\\register.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\register.html",
+              "RelativeToolTip": "wwwroot\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T13:48:14.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:58:03.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "forgot-password.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\forgot-password.html",
+              "RelativeDocumentMoniker": "wwwroot\\forgot-password.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\wwwroot\\forgot-password.html",
+              "RelativeToolTip": "wwwroot\\forgot-password.html",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T15:38:53.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T12:18:11.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:02:33.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartDtos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\DTOs\\CartDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\CartDtos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\DTOs\\CartDtos.cs",
+              "RelativeToolTip": "DTOs\\CartDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:02:05.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260415130005_AddShoppingCarts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260415130005_AddShoppingCarts.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260415130005_AddShoppingCarts.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260415130005_AddShoppingCarts.cs",
+              "RelativeToolTip": "Migrations\\20260415130005_AddShoppingCarts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:00:05.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:59:03.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:58:42.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:35:07.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260415123325_AddIdentitySupport.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260415123325_AddIdentitySupport.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260415123325_AddIdentitySupport.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260415123325_AddIdentitySupport.cs",
+              "RelativeToolTip": "Migrations\\20260415123325_AddIdentitySupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:33:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260415121947_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260415121947_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260415121947_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SmartShoppingAssistant\\SmartShoppingAssistant\\Migrations\\20260415121947_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260415121947_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:19:47.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

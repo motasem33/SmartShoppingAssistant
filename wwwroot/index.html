@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Shopping Assistant | Login</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-overlay"></div>
+    <div class="login-wrapper">
+        <div class="glass-card">
+            <div class="logo-section">
+                <i class="fas fa-shopping-basket"></i>
+                <h1>Smart Assistant</h1>
+                <p>مرحباً بك في مستقبل التسوق الذكي</p>
+            </div>
+
+            <form id="loginForm">
+                <div class="input-container">
+                    <i class="fas fa-envelope"></i>
+                    <input type="email" id="email" placeholder="البريد الإلكتروني" required>
+                </div>
+                <div class="input-container">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" id="password" placeholder="كلمة المرور" required>
+                </div>
+
+                <div class="options">
+                    <label><input type="checkbox"> تذكرني</label>
+                    <a href="forgot-password.html" class="forgot-pw">نسيت كلمة السر؟</a>
+                </div>
+
+                <button type="submit" class="btn-primary">تسجيل الدخول</button>
+
+                <div class="divider"><span>أو</span></div>
+
+                <button type="button" class="btn-admin" onclick="adminMode()">
+                    <i class="fas fa-user-shield"></i> دخول المشرفين (Admin)
+                </button>
+            </form>
+
+            <div class="footer-links">
+                ليس لديك حساب؟ <a href="register.html">إنشاء حساب جديد</a>
+            </div>
+
+            <div id="responseMessage" class="status-msg"></div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
